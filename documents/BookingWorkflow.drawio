@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="28.0.7">
   <diagram name="Page-1" id="WE1785eX8nX1LXx2foA7">
-    <mxGraphModel dx="2473" dy="1445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="338" y="182" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSZyv0N2b3MM7Kk_gibt-4" value="VAPI needs to gather the following from the customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="302" width="165" height="60" as="geometry" />
+          <mxGeometry x="343" y="290" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xgvfn6AB83izIIUg1qAx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSZyv0N2b3MM7Kk_gibt-7" target="xgvfn6AB83izIIUg1qAx-10">
           <mxGeometry relative="1" as="geometry" />
@@ -29,22 +29,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zSZyv0N2b3MM7Kk_gibt-8" value="When the appointment is" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="344" y="930" width="162" height="40" as="geometry" />
+          <mxGeometry x="344" y="939" width="162" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xgvfn6AB83izIIUg1qAx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSZyv0N2b3MM7Kk_gibt-9" target="zSZyv0N2b3MM7Kk_gibt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zSZyv0N2b3MM7Kk_gibt-9" value="What kind of appointment it is" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="344" y="990" width="162" height="40" as="geometry" />
+          <mxGeometry x="344" y="999" width="162" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xgvfn6AB83izIIUg1qAx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSZyv0N2b3MM7Kk_gibt-10" target="zSZyv0N2b3MM7Kk_gibt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zSZyv0N2b3MM7Kk_gibt-10" value="What kind of appointment it is" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="344" y="1050" width="162" height="40" as="geometry" />
+          <mxGeometry x="344" y="1059" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xgvfn6AB83izIIUg1qAx-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSZyv0N2b3MM7Kk_gibt-12" target="xgvfn6AB83izIIUg1qAx-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zSZyv0N2b3MM7Kk_gibt-12" value="Any additional info" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="344" y="1110" width="162" height="40" as="geometry" />
+          <mxGeometry x="344" y="1119" width="162" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xgvfn6AB83izIIUg1qAx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgvfn6AB83izIIUg1qAx-1" target="zSZyv0N2b3MM7Kk_gibt-7">
           <mxGeometry relative="1" as="geometry">
@@ -241,6 +244,21 @@
               <mxPoint x="80" y="896" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xgvfn6AB83izIIUg1qAx-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgvfn6AB83izIIUg1qAx-87" target="xgvfn6AB83izIIUg1qAx-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgvfn6AB83izIIUg1qAx-87" value="Confirm appointment" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="343" y="1200" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xgvfn6AB83izIIUg1qAx-89" value="Create booking with Square" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="1270" width="158" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xgvfn6AB83izIIUg1qAx-92" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375.5" y="1330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xgvfn6AB83izIIUg1qAx-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xgvfn6AB83izIIUg1qAx-89" target="xgvfn6AB83izIIUg1qAx-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
