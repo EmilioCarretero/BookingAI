@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="28.0.7">
+  <diagram name="Page-1" id="WE1785eX8nX1LXx2foA7">
+    <mxGraphModel dx="938" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSZyv0N2b3MM7Kk_gibt-1" target="zSZyv0N2b3MM7Kk_gibt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="90" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSZyv0N2b3MM7Kk_gibt-2" target="zSZyv0N2b3MM7Kk_gibt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-2" value="&lt;div&gt;Caller makes contact&lt;/div&gt;&lt;div&gt;&amp;nbsp;with VAPI&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="338" y="270" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSZyv0N2b3MM7Kk_gibt-4" target="zSZyv0N2b3MM7Kk_gibt-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-4" value="VAPI needs to gather the following from the customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="410" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-7" value="Who the appiointment is for" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-8" value="When the appointment is" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-9" value="What kind of appointment it is" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="610" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-10" value="What kind of appointment it is" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="670" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-12" value="Any additional info" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343" y="510" as="sourcePoint" />
+            <mxPoint x="370" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="343" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343" y="570" as="sourcePoint" />
+            <mxPoint x="370" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="343" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343" y="630" as="sourcePoint" />
+            <mxPoint x="370" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="343" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSZyv0N2b3MM7Kk_gibt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343" y="690" as="sourcePoint" />
+            <mxPoint x="370" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="343" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
